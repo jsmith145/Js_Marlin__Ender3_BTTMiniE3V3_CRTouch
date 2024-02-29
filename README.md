@@ -1,3 +1,15 @@
+I couldn't find a find a .bin file that would work on my printer (Natalie). After pulling out all my hair, I decided to bite the bullet and build Marlin myslef. So I followed the tutorials on YouTube and here we are. 
+
+Really the only thing to note is I put in my own bootscreen image instead of the boring stock Ender one. I had fun with it. 
+
+Printer: Ender 3
+Motherboard: Big Tree Tech Mini E3 V3.0 (I think I got the name right)
+ABL: CRTouch
+
+Standard Marlin README is below. They seem like fantastic folks. A salute them. 
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
