@@ -3,7 +3,9 @@ I couldn't find a find a .bin file that would work on my printer (Natalie). Afte
 Really the only thing to note is I put in my own bootscreen image instead of the boring stock Ender one. I had fun with it. 
 
 Printer: Ender 3
+
 Motherboard: Big Tree Tech Mini E3 V3.0 (I think I got the name right)
+
 ABL: CRTouch
 
 Standard Marlin README is below. They seem like fantastic folks. A salute them. 
